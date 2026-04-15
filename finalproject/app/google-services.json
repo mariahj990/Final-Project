@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "800903276357",
+    "firebase_url": "https://final-project-26c27-default-rtdb.firebaseio.com",
+    "project_id": "final-project-26c27",
+    "storage_bucket": "final-project-26c27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800903276357:android:1060d00569bd194d8b802c",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0QYtpFAfIioBZIoZSqq103NyISdwUjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
